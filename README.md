@@ -1,11 +1,15 @@
 # The final project of the course Autonomous Robots. #
 
 
-Topic number 4 that we have chosen is about:
+Topic number 3 that we have chosen is about:
 
-Initial introduction and development of the DJI Mobile SDK development environment,
-in particular work on the ability to plan a real-time mission with the help of moving the navigation target point 
-(it is possible to assume the use of GPS for location).
+"Android-based remote vehicle control technology requires familiarization and testing of any vehicle that will be provided to you - for this task you must use the ANDRUAV application and will be connected to a flight controller and drive a vehicle."
+
+## Actual task:
+
+Look at an application like ANDRUAV that actually allows a phone like Android to connect to a flight controller and then fly a drone or a car or a boat with it, etc.
+The drones are more complicated and there are no boats, so we will go more in the direction of vehicles.
+The idea - I have a phone and I want this phone to drive well. where? In some small route or on-rouad or off-rouad.
 
 ### Short review on our previous works ###
 
@@ -18,4 +22,4 @@ The only previous work in connection to that is the other projects (tasks) from 
 
 # Collaborators: #
 
-Elor Israeli, Naor Ladani, Roy Asraf.
+Elor Israeli, Naor Ladani, Roy Asraf and Roni Michaeli.
